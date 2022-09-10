@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <div className='header'>
-      <img className='img-portada' src="./src/assets/recursos/la-ultima-cena-de-rick-y-morty_3840x2160_xtrafondos.com.jpg" alt=""></img>
+      <img className='img-portada' src="https://www.xtrafondos.com/wallpapers/resized/la-ultima-cena-de-rick-y-morty-6568.jpg?s=large" alt=""></img>
         <InputCharacter chageLocation={chageLocation} idLocation={idLocation} setIdLocation={setIdLocation} />
       </div>
       <div className='main'>
